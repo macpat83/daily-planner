@@ -3,7 +3,7 @@ body {
   font-size: 16px;
   line-height: 1;
 }
-
+/*css for text box*/
 textarea{
   background: transparent;
   border: none;
@@ -12,7 +12,7 @@ textarea{
   border-left: 1px solid black;
   padding: 10px;
 }
-
+/*css for jumbotron*/
 .jumbotron {
   text-align: center;
   background-color: transparent;
@@ -20,45 +20,45 @@ textarea{
   border-radius: 0;
   border-bottom: 10px solid black;
 }
-
+/*css for description*/
 .description{
   white-space: pre-wrap;
 }
 
-
+/*css for hour block*/
 .hour-block{
   text-align: center;
   border-radius: 15px;
 }
-
+/*css for row*/
 .row {
   white-space: pre-wrap;
   height: 80px;
   border-top: 1px solid white;;
 }
-
+/*css for hour of the day*/
 .hour {
   background-color: #addafa;
   color: #000000;
   border-top: 1px dashed #000000;
   font-size: 16px;
 }
-
+/*css for hour that has past*/
 .past {
   background-color: #d6d6d6;
   color: white;
 }
-
+/*css for current hour*/
 .present {
   background-color: #ff6961;
   color: white;
 }
-
+/*css for future hour*/
 .future {
   background-color: #77dd77;
   color: white;
 }
-
+/*css for save button*/
 .saveBtn {
   border-left: 1px solid black;
   border-top-right-radius: 15px;
