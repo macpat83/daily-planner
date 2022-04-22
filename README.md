@@ -1,4 +1,4 @@
-# 05 Third-Party APIs: Work Day Scheduler
+#Third-Party APIs: Work Day Scheduler
 
 ##Purpose
 Create a simple calendar application that allows the user to save events for each hour of the day. This app will run in the browser and feature dynamically updated HTML and CSS powered by jQuery.
@@ -8,15 +8,17 @@ HTML
 CSS
 Javascript
 JQuery
+APIs
 
 
 
 ## Website
-
+https://macpat83.github.io/daily-planner/
 
 ## Screen Capture
+![image](https://user-images.githubusercontent.com/98047373/164577332-83eaa584-f172-4574-9eeb-5b77933c20b5.png)
 
-![1649882357897](https://user-images.githubusercontent.com/98047373/163266606-c812f7c5-4207-4989-a53d-fea0b46c170c.png)
+
 
 
 
